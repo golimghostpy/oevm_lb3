@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/golimghost/CLionProjects/OEVM_lb3/cmake-build-debug",
+	"dir-cur-src" : "/home/golimghost/CLionProjects/OEVM_lb3",
+	"dir-top-bld" : "/home/golimghost/CLionProjects/OEVM_lb3/cmake-build-debug",
+	"dir-top-src" : "/home/golimghost/CLionProjects/OEVM_lb3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/golimghost/CLionProjects/OEVM_lb3/."
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/golimghost/CLionProjects/OEVM_lb3/cmake-build-debug/CMakeFiles/OEVM_lb3.dir"
+}
